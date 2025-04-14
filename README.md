@@ -1,22 +1,43 @@
-# 🎬Movie Recommender System #
-This project is a Machine Learning-based Movie Recommender System that suggests movies based on user preferences. It utilizes various recommendation techniques including content-based filtering and collaborative filtering to deliver personalized movie recommendations. The system is built using Python and leverages libraries such as Pandas, Scikit-learn, and possibly Surprise or TensorFlow (depending on your implementation).
+# 🎬 Movie Recommender System
 
-🔍 Features:-
-Personalized movie recommendations
-Content-based filtering using movie metadata
-Collaborative filtering using user ratings
-Clean and interactive user interface (if applicable)
-Scalable and modular codebase
+This project is a Machine Learning-based Movie Recommender System that suggests movies based on user preferences. It uses techniques such as content-based filtering and collaborative filtering to provide personalized recommendations.
 
-🛠️ Technologies Used:-
-Python
-Pandas, NumPy
-Scikit-learn / Surprise
-Flask / Streamlit (for web interface, if added)
-Jupyter Notebook (for model experimentation)
+## 🔍 Features
 
-🚀 Getting Started
-Clone the repository
-Install the required dependencies
-Run the Jupyter notebook or Flask app
-Explore and enjoy the recommendations!
+- Personalized movie suggestions
+- Content-based filtering using movie metadata
+- Collaborative filtering based on user ratings
+- Modular and easy-to-read codebase
+- Web interface for easy interaction
+
+## 🛠️ Technologies Used
+
+- Python  
+- Pandas, NumPy  
+- Scikit-learn / Surprise  
+- Jupyter Notebook  
+- Flask / Streamlit  
+- TMDb API for metadata
+
+## 🚀 Getting Started
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/swayamkhokhariya/movie-recommender-system.git
+   ```
+
+2. Navigate to the project directory:
+   ```bash
+   cd movie-recommender-system
+   ```
+
+3. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+4. Run the notebook or app and start exploring recommendations.
+
+---
+
+Feel free to contribute or suggest improvements!
